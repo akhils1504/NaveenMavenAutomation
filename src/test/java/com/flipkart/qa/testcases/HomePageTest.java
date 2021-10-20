@@ -54,3 +54,14 @@ public class HomePageTest extends TestBase {
 	}
 
 }
+//
+//@BeforeSuite
+//@BeforeTest
+//@BeforeClass
+//@BeforeMethod
+//@Test
+//@AfterMethod
+//@AfterClass
+//@AfterTest
+//@AfterSuite				
+
